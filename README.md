@@ -37,7 +37,6 @@ Weather-App/
 │
 ├── index.html
 ├── style.css
-├── script.js
 ├── images/
 │   ├── clear.png
 │   ├── clouds.png
