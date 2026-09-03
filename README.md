@@ -2,6 +2,12 @@
 
 A responsive weather application built using HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API. Users can search for any city worldwide and view current weather conditions through a simple and intuitive interface.
 
+## 🌐 Live Demo
+
+[Visit Agency.AI](## 🌐 Live Demo
+
+[Visit Agency.AI](https://aryanh12345.github.io/Agency.AI/))
+
 ## Features
 
 * Search weather by city name.
