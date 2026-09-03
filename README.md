@@ -4,8 +4,6 @@ A responsive weather application built using HTML, CSS, and JavaScript that fetc
 
 ## 🌐 Live Demo
 
-[Visit Agency.AI](## 🌐 Live Demo
-
 [Visit website](https://aryanh12345.github.io/Agency.AI/)
 
 ## Features
